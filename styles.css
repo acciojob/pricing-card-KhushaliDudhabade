@@ -1,1 +1,33 @@
 /*  your css code here. If applicable */
+div{
+	width:400px;
+	height:700px;
+	background-color:#e1f7f6;
+	box-shadow:5px 5px 5px 5px #5d676b;
+	padding:30px;
+}
+img{
+	width:300px;
+	height:200px;
+	padding-top:50px;
+	
+}
+
+body{
+	text-align:center;
+}
+
+p{
+	font-size:40px;
+	font-family:serif;
+	font-weight:bold;
+}
+button{
+	background-color:#fa7020;
+	color:white;
+	font-size:30px;
+	font-family:serif;
+	border: 0px;
+	border-radius:10px;
+	padding:7px;
+}
